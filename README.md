@@ -32,46 +32,55 @@ Wineskin allows you to create bundled Wine prefixes and run Windows programs lik
 
 <p align="left" width="100%">
   First you should install the following Engine by pressing the "+" <br>
-  <img width="33%" alt="Screenshot 2023-10-06 at 22 54 19" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/ab02140a-8d1b-485f-96d5-ce9d025c3ff3">
+  <img width="33%" alt="Screenshot 2023-10-06 at 22 54 19" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/18bfb053-c6d4-4aa1-b6cb-cb0ad1582382">
 </p>
 
 <p align="left" width="100%">
   After installing this engine continue by hitting "Create New Blank Wrapper" <br>
-  <img width="33%"  alt="Screenshot 2023-10-06 at 22 55 21" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/39166830-e273-4426-94f4-8284f2ca390d">
+ <img width="33%" alt="Screenshot 2023-10-06 at 22 55 21" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/cfb4261c-9d0c-4844-9a43-e7d8466315f5">
 </p>
 
 <p align="left" width="100%">
   Rename this to whatever you want but I will call it ZEP2 <br>
-  <img width="33%" alt="Screenshot 2023-10-06 at 22 55 26" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/e230c441-c533-4d79-bb4b-28f4e0ad9b32">
+  <img width="33%" alt="Screenshot 2023-10-06 at 22 55 26" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/46d88ca6-5eef-40e1-a570-33c7c76643ad">
 </p>
 
 Now press on the newly made ZEP2 application
-<img width="1710" alt="Screenshot 2023-10-09 at 10 14 17" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/86bacc2c-7f92-4e24-8ee6-aee390b1d241">
+<img width="1710" alt="Screenshot 2023-10-09 at 10 14 17" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/d5a347c2-1c69-43af-bc70-e56f24b386d4">
+
+
 
 
 <p align="left" width="100%">
   Press "Install Software" <br>
-  <img width="33%" alt="Screenshot 2023-10-06 at 22 57 06" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/85f3947f-4c05-44a3-878f-ac59a4592e2e">
+  <img width="33%" alt="Screenshot 2023-10-06 at 22 57 06" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/19f77da8-14bd-4714-b1f0-f9c415b45e12">
 </p>
 
 <p align="left" width="100%">
   Here you should click on "Copy a Folder Inside" <br>
-  <img width="33%" alt="Screenshot 2023-10-06 at 22 57 31" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/dfbe9eb8-bfc5-4ef3-a32e-e41a8e58e13e">
+  <img width="33%" alt="Screenshot 2023-10-06 at 22 57 31" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/ddf0e465-b2c2-4d14-89b2-6aaf4e00cd16">
+
 </p>
 
 <p align="left" width="100%">
   Then select the folder containg the ZEP2.exe <br>
-  <img width="33%"  alt="Screenshot 2023-10-06 at 22 58 38" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/00bd743f-f152-42ae-bfcf-3fec66d1c984">
+  <img width="33%" alt="Screenshot 2023-10-06 at 22 58 38" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/c0f1c25b-3dde-4e1e-b3fa-5e67c14fc208">
 </p>
 
 <p align="left" width="100%">
-  <img wwidth="33%"  alt="Screenshot 2023-10-06 at 22 58 48" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/c166388c-b7d8-4de2-ac9d-f343f50218b8"> <br>
+  <img width="702" alt="Screenshot 2023-10-06 at 22 58 48" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/29ac5f4a-a0d6-4d35-b0a6-a55e0cd6ec36"> <br>
   Now in the Application Finder you can open ZEP2 by double clicking the new ZEP2 Application
+  <img width="1710" alt="Screenshot 2023-10-09 at 10 14 17" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/90ec25fe-5723-48b1-9707-17bceac4b040">
+
 </p>
 
 <p align="left" width="100%">
-  <img width="33%" alt="Screenshot 2023-10-06 at 22 56 58" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/a8e50306-5533-4c77-8a52-cbdffdba0f0b"> <br>
   You should see the following screen
 </p>
-<img width="1822" style="float: left;"  alt="Screenshot 2023-10-06 at 22 59 14" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/7e339ec2-741b-4c36-81aa-e6b9596999f9">
-<img width="1822" style="float: left;"  alt="Screenshot 2023-10-06 at 22 59 25" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/83371013-fa3a-4da9-9f71-63b883202019">
+
+<img width="1822" alt="Screenshot 2023-10-06 at 22 59 14" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/8990792a-073d-4bc2-bc95-2e61643eb65d">
+<img width="1822" alt="Screenshot 2023-10-06 at 22 59 25" src="https://github.com/hexakis/zep2-simulator-macos/assets/38819097/2a997c9f-1cc5-4e8e-96ba-9c2d450d0cc6">
+
+
+
+
